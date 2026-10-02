@@ -13,7 +13,7 @@ const CarForm = () => {
       <form>
         <label>Merke</label>
         <input type="text" />
-        <label>Modell</label>
+        <label>Model</label>
         <input type="text" />
 		<button>Legg til</button>
       </form>
