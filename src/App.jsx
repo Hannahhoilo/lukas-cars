@@ -26,7 +26,7 @@ function App() {
       <main>
         <header>
           <h1>Lukas Cars</h1>
-          <p>p tekstning</p>
+          <p>Recap from earlier</p>
         </header>
 
         <CarForm/>
