@@ -26,6 +26,7 @@ function App() {
       <main>
         <header>
           <h1>Lukas Cars</h1>
+          <p>p tekstning</p>
         </header>
 
         <CarForm/>
