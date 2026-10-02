@@ -1,0 +1,18 @@
+html, body{ /* Reset/Normalize-kode, kode for å resete */
+  min-height: 100vh;
+  margin: 0;
+}/*viewport er flaten skjermen viser. viewpoert height */
+
+.light-theme, .dark-theme{
+  min-height: 100vh;
+}
+
+.light-theme{
+  color: #2d3867;
+  background-color: #bbc2ff;
+}
+
+.dark-theme{
+  color: #bbc2ff;
+  background-color: #2d3867;
+}
